@@ -14,6 +14,23 @@
 # # 1 + 1
 # puts add + add
 
+puts "Hello world!"
+
+
+
+puts "Hello world!"
+puts "Hello world!"
+puts "Hello world!"
+
+
+
+print "Hello world!"
+print "Hello world!"
+print "Hello world!"
+
+
+puts [1, 2, 3]
+
 def add num1, num2
     puts num1
     puts num2
@@ -21,3 +38,6 @@ def add num1, num2
 end
 
 puts add(1,3) + add(2,2)
+
+
+pp [{ id: 1, hello: "World" }, { id: 2, hello: "Ruby" }, { id: 3, hello: "Moon" }, { id: 4, hello: "Learner" }]
